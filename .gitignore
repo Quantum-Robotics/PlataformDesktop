@@ -1,0 +1,8 @@
+.vs/*.*
+.vs/ProyectoTituloAlpha/v15/.suo
+*.ide
+.vs/ProyectoTituloAlpha/v15/.suo
+.vs/ProyectoTituloAlpha/v15/Server/sqlite3/storage.ide-shm
+*.ide-shm
+*.ide-wal
+*.lock
